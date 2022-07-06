@@ -1,2 +1,2 @@
 # Proyecto_Final -Statistical
-[![Alt text](https://img.youtube.com/viUYjzJRTlPVs.jpg)]( https://youtu.be/UYjzJRTlPVs)
+[![Alt text](https://img.youtube.com//UYjzJRTlPVs.jpg)]( https://youtu.be/UYjzJRTlPVs)
